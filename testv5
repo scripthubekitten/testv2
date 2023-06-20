@@ -52,6 +52,7 @@ local Section = Tab:AddSection({
 	Name = "MISC"
 })
 
+
 Tab:AddParagraph("Note:","Some aimbots are for pc !")
 
 Tab:AddButton({
@@ -233,7 +234,7 @@ Tab:AddButton({
 	Time = 5
 })
       		print(getgenv().key = "Hostile"
-              loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/The-telligence/main/MC%20KSystem%202%22))())
+              loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/The-telligence/main/MCKSystem"))())
   	end    
 })
 
@@ -246,9 +247,10 @@ Tab:AddButton({
 	Image = "rbxassetid://4483345998",
 	Time = 5
 })
-      		print(loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/Chillz-s-scripts/main/Synapse-X-Remake.lua%22))())
+      		print(loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/Chillz-s-scripts/main/Synapse-X-Remake.lua"))())
   	end    
 })
+
 
 local Tab = Window:MakeTab({
 	Name = "Brookhaven",
@@ -335,6 +337,7 @@ Tab:AddButton({
             print(loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/56-Clubs-Prison-Life-REMASTERED-SCRIPT/main/Main",true))())
   	end    
 })
+
 
 local Tab = Window:MakeTab({
 	Name = "DaHood",
@@ -450,6 +453,7 @@ Tab:AddButton({
   	end    
 })
 
+
 local Tab = Window:MakeTab({
 	Name = "Legend Of Speed",
 	Icon = "rbxassetid://4483345998",
@@ -469,10 +473,11 @@ Tab:AddButton({
 	Image = "rbxassetid://4483345998",
 	Time = 10
 })
-      		print(loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven))()
+      		print(loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
         )
   	end    
 })
+
 
 local Tab = Window:MakeTab({
 	Name = "apeirophobia",
@@ -498,6 +503,7 @@ Tab:AddButton({
   	end    
 })
 
+
 local Tab = Window:MakeTab({
 	Name = "Pet Sim X",
 	Icon = "rbxassetid://4483345998",
@@ -520,6 +526,7 @@ Tab:AddButton({
       		print(loadstring(game:HttpGet('https://pastebin.com/raw/dT4Cs1Fq'))())
   	end    
 })
+
 
 local Tab = Window:MakeTab({
 	Name = "breaking point",
@@ -570,6 +577,7 @@ Tab:AddButton({
   	end    
 })
 
+
 local Tab = Window:MakeTab({
 	Name = "Drive world",
 	Icon = "rbxassetid://4483345998",
@@ -592,6 +600,7 @@ Tab:AddButton({
       		print(loadstring(game:HttpGet("https://raw.githubusercontent.com/x3fall3nangel/FallAngelHub/main/DriveWorld.lua"))())
   	end    
 })
+
 
 local Tab = Window:MakeTab({
 	Name = "MM2",
@@ -673,6 +682,7 @@ Tab:AddButton({
   	end    
 })
 
+
 local Tab = Window:MakeTab({
 	Name = "Blox Fruits",
 	Icon = "rbxassetid://4483345998",
@@ -721,6 +731,7 @@ Tab:AddButton({
       		print(loadstring(game:HttpGet'https://raw.githubusercontent.com/pokelok/Farinhahubpro/main/HUB')())
   	end    
 })
+
 
 local Tab = Window:MakeTab({
 	Name = "DOORS",
@@ -771,6 +782,7 @@ Tab:AddButton({
   	end    
 })
 
+
 local Tab = Window:MakeTab({
 	Name = "Bedwars",
 	Icon = "rbxassetid://4483345998",
@@ -807,6 +819,7 @@ Tab:AddButton({
   	end    
 })
 
+
 local Tab = Window:MakeTab({
 	Name = "Skywars",
 	Icon = "rbxassetid://4483345998",
@@ -829,6 +842,7 @@ Tab:AddButton({
       		print(loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/Loadstring9VHD6Wmyi82n", true))())
   	end    
 })
+
 
 local Tab = Window:MakeTab({
 	Name = "Arsenal",
@@ -869,6 +883,7 @@ Tab:AddButton({
       		print(loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))())
   	end    
 })
+
 
 local Tab = Window:MakeTab({
 	Name = "MadCity",
@@ -916,6 +931,7 @@ Tab:AddButton({
   	end    
 })
 
+
 local Tab = Window:MakeTab({
 	Name = "Fishing simulator",
 	Icon = "rbxassetid://4483345998",
@@ -952,6 +968,7 @@ Tab:AddButton({
   	end    
 })
 
+
 local Tab = Window:MakeTab({
 	Name = "Tower Defence Simulator",
 	Icon = "rbxassetid://4483345998",
@@ -974,6 +991,7 @@ Tab:AddButton({
       		print(loadstring(game:HttpGet('https://raw.githubusercontent.com/Nicuse/RobloxScripts/main/TowerDefenseSimulator.lua', true))())
   	end    
 })
+
 
 local Tab = Window:MakeTab({
 	Name = "Evade",
